@@ -46,7 +46,7 @@ The <i><b>generateBtn</i></b> variable is used to reference the "Generate Passwo
 
 Project link: <a href="https://github.com/mrBimsy/Password-Generator">https://github.com/mrBimsy/Password-Generator</a>
 
-Deployed project: 
+Deployed project: <a href="https://mrbimsy.github.io/Password-Generator/">https://mrbimsy.github.io/Password-Generator/</a>
 
 ## License
 
