@@ -1,5 +1,5 @@
 # Password-Generator
-<img src="assets/" alt="HTML tutorial">
+<img align="middle" src="assets/05-javascript-challenge-demo.png" alt="password-generator">
 This is a JavaScript code that generates a password by taking input from the user through prompts and confirms. The password can contain lowercase letters, uppercase letters, numeric characters, and special characters.
 
 The <i><b>getPasswordOptions()</i></b> function is responsible for prompting the user for the password options and generating the password. It first asks for the desired password length and validates it. Then it asks the user for the types of characters they want to include in the password (lowercase letters, uppercase letters, numeric characters, and special characters) using confirm() prompts. If the user doesn't select any character type, an alert is displayed. The function returns the generated password by calling generatePassword() function.
