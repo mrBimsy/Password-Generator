@@ -184,10 +184,10 @@ let passwordLength = 0; // Variable to store password length
 function getPasswordOptions() {
   let choiceArr = []; // Empty array to store selected characters
   passwordLength = prompt(
-    "The number of characters you would like in your password? (between 10 - 64 characters)"
+    "The number of characters you would like in your password? (between 8 - 128 characters)"
   );
-  if (passwordLength < 10 || passwordLength > 64 || isNaN(passwordLength)) {
-    alert("Please enter a number between 10 and 64");
+  if (passwordLength < 8 || passwordLength > 128 || isNaN(passwordLength)) {
+    alert("Please enter a number between 8 and 128");
     return;
   }
   if (confirm("Would you like lowercase letters in your password?")) {
