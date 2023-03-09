@@ -36,6 +36,17 @@ The <i><b>generateBtn</i></b> variable is used to reference the "Generate Passwo
         Code should validate for each input and at least one character type should be selected.
 
         Once all prompts are answered, the password should be generated and displayed in an alert or written to the page.
+        
+## Sources 
+- https://www.youtube.com/watch?v=v2jfGo7ztm8
+- https://youtu.be/duNmhKgtcsI
+
+        
+## Project
+
+Project link: <a href="https://github.com/mrBimsy/Password-Generator">https://github.com/mrBimsy/Password-Generator</a>
+
+Deployed project: 
 
 ## License
 
